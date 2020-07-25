@@ -1,6 +1,6 @@
 # Hakistan keylogger Builder For Windows  
 
-## Note: This Tool requires Java Installed on PC. Google it if don't know how to install it.
+## Note: This Tool requires Java. If it is not Installed on your PC and you don't know how to install it then Google it.
 
 # Help
 
@@ -33,3 +33,5 @@ hapkbuilder.exe password@123 120000 C:\Users\MG7\Desktop\PRO\hakistankeyloggerpr
 ```
 
 ## Build Will take some time, After finishing it will create an APK file with name (final.apk) in that directory.
+
+# After Changing password you can test by long pressing Finish button. It will send test mail to check if password is correct or not. 
