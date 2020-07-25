@@ -12,6 +12,19 @@ Clone repo:
 
 ```
 git clone https://github.com/hakistan/HakistankeyloggerBuilder.git
-git add
-git commit
+
+```
+
+Got to Builder's Directory:
+
+```
+cd HakistankeyloggerBuilder
+
+```
+
+Then execute This command to build APK with new Password & Interval:
+
+```
+cd HakistankeyloggerBuilder
+
 ```
