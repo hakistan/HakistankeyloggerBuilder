@@ -25,6 +25,11 @@ cd HakistankeyloggerBuilder
 Then execute This command to build APK with new Password & Interval:
 
 ```
-cd HakistankeyloggerBuilder
+hapkbuilder.exe password interval path-to-apk-file
 
+#For Example
+
+hapkbuilder.exe password@123 120000 C:\Users\MG7\Desktop\PRO\hakistankeyloggerpro.apk
 ```
+
+## Build Will take some time, After finishing it will create an APK file with name (final.apk) in that directory.
